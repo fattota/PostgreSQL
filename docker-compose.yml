@@ -11,6 +11,3 @@ services:
       - POSTGRES_USER=app
       - POSTGRES_PASSWORD=9mREsvXDs9Gk89Ef
 
-volumes:
-  data:
-    driver: local
